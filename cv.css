@@ -1,0 +1,173 @@
+body {
+  -webkit-print-color-adjust:exact !important;
+  print-color-adjust:exact !important;
+
+	margin: 10mm;	
+	font-family: Calibri,sans-serif; 
+	border: 1px solid black;
+
+}
+
+table {
+	width: 100%;
+	background-color: #0667ab;
+}
+
+#td1 {
+
+	width: 71%;
+	border-top-width: 0;
+}
+
+#photo {
+	height: 10em;
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+	
+}
+
+
+.diplome {
+	display: inline-block;
+}
+
+
+.etablissement {
+	display: inline-block;
+}
+
+.annee {
+	display: inline-block;
+}
+
+h2 {
+	margin: 0 0 0 3%;
+}
+
+
+
+#residence {
+	list-style-image: url(images/home.svg);
+	font-size: 16px;
+	font-weight: 900;
+}	
+
+#age {
+	list-style-image: url(images/calendar.svg);
+	font-size: 16px;
+	font-weight: 900;	
+}
+
+#mobilite {
+	list-style-image: url(images/map-pin.svg);
+	font-size: 16px;
+	font-weight: 900;
+	}
+
+#telephone {
+	list-style-image: url(images/phone-call.svg);
+	font-size: 16px;
+	font-weight: 900;
+}
+
+#courriel {
+	list-style-image: url(images/mail.svg);
+	font-size: 16px;
+	font-weight: 900;
+}
+
+#github {
+	list-style-image: url(images/github.svg);
+	vertical-align: top;
+	font-size: 16px;
+	font-weight: 900;
+}
+
+#nom {
+	font-weight: 900;
+	font-size: 300%;
+	padding-left: 10%;
+	text-shadow: 1px 1px #D3D3D3;
+	color: #EEEEEE;
+
+	margin-top: 10px;
+}
+
+hr {
+	margin-left: 10%;
+	color: #EEEEEE;
+}
+
+#profession {
+	text-shadow: 1px 1px #C3C3C3;
+	color: #D3D3D3;
+	font-size: 130%;
+	padding-left: 11%;
+	padding-top: 20px;
+	margin-top: -65px;
+}
+
+#contenu {
+	border-left: 30px solid #0667ab;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	background-color: #D9D9D9;
+}
+
+#entete {
+	border-bottom: 20px solid #C4C4C4	;
+}
+
+#formation {
+	list-style-type: none;
+
+	
+	
+}
+
+#competences {
+	list-style-type: none;
+}
+
+.diplome {
+	font-weight: 900;
+	margin-right: 10px;
+}
+
+.texte {
+	margin-top: -20px;
+	font-size: 13px;
+	font-style: italic;
+	padding-left: 10px;
+}
+
+#experiences {
+	list-style-type: none;
+}
+
+#autres_informations {
+	list-style-type: none;
+}
+
+.entreprise {
+	font-weight: 501;
+	font-size: 14px;
+}
+
+.emploi {
+	padding-left: 30px;
+	margin-top: -15px;
+	margin-right: -300px;
+}
+
+.role {
+	font-style: italic;
+}
+
+#contacts {
+	border-spacing: 5px;
+	padding-left: 6%;
+}
+
